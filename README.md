@@ -79,7 +79,6 @@ Name: Dianca Jade Naidu
 
 Email: diancanaidu@gmail.com
 
-Contact Number: 060 837 9717
 
 # Acknowledgements
 OpenAI. (2024). ChatGPT. Retrieved from https://chatgpt.com
